@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "optimizer_instances_vs_exhaustive": 32,
+  "chronological_interface_calls": 732,
+  "additional_fractional_state_calls": 12
+}

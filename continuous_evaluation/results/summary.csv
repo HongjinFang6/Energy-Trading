@@ -1,0 +1,2 @@
+model,eta,epochs,learning_rate,seeds,weeks,days,eligible,failed_weeks,mean_revenue,std_revenue,worst_seed_revenue,oracle_revenue,oracle_upper_bound,oracle_certified,oracle_capture_pct,mean_regret,price_mae,price_rmse
+MLP,1.0,2000,0.001,"42,77,123",53,366,True,0,125429.00203749999,835.2906719208479,124586.7810125,134514.4368375,134514.4368375,True,93.2457548694378,9085.434800000003,14.193458765843667,23.65061107487255
